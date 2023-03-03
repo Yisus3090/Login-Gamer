@@ -1,2 +1,2 @@
 # Login-Gamer
-Login con estilo moderno "RGB$"
+Login con estilo moderno "RGB"
